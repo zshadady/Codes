@@ -1,4 +1,5 @@
-Python_Pandas
-packages_for_lambda
-data
 .venv
+data
+packages_for_lambda
+Python_Pandas
+.env
